@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kawi0r
-- 👀 I’m interested in ... i want to change my carrer to IT ( backend dev )
-- 🌱 I’m currently learning ... Python on Udemy, as a next step will be Java and then Django with Spring
+- 👀 I’m interested in ... i want to change my carrer to IT
+- 🌱 I’m currently learning ... Python with Zero To Mastery ! And soon will start Full Web Develoment course ( HTML+CSS+JavaScript )
 - 💞️ I’m looking to collaborate on ... when i start my 1st project, I'll know more 
 - 📫 How to reach me ... prv here
 
