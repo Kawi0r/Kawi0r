@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @Kawi0r
+- 👋 Hi, my name is Sebastian Kawka
 - 👀 I’m interested in ... i want to change my carrer to IT
-- 🌱 I’m currently learning ... Javascript/React
-- 💞️ I’m looking to collaborate on ... build some websites for portfolio.
+- 🌱 I’m currently learning ... Javascript/React and participating in level 3 Skill Bootcamp in Java
 - 📫 How to reach me ... prv here
 
 Skills:
-HTML, CSS3, Bootstrap, Javascript, ReactJS
+HTML, CSS3, Bootstrap, Javascript, ReactJS, Java (in progress)
 
-<!---
-Kawi0r/Kawi0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I will use this profile to leave any project or challenge i made.
